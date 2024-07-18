@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.arrow-image {
+  height: 18px;
+  margin-top: 17px;
+}
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  margin-bottom: 0px;
+}
